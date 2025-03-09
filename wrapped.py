@@ -13,7 +13,7 @@ firstcommand("green", "purple")
 byweekday("purple", "blue")
 top_pings(5, "green")
 hourly("green", "purple")
-barchart("green", "purple")
+hourchart("green", "purple")
 daychart("green", "yellow")
 
 reset()
